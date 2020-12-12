@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live Hosting URL of Project
 Surge : http://conscious-pot.surge.sh/
+Netlify : https://condescending-boyd-fc3c29.netlify.app/
 
 
 
